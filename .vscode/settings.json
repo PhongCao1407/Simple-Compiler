@@ -2,6 +2,7 @@
     "files.associations": {
         "any": "cpp",
         "string": "cpp",
-        "list": "cpp"
+        "list": "cpp",
+        "iosfwd": "cpp"
     }
 }
